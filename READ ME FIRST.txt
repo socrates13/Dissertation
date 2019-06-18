@@ -1,0 +1,9 @@
+Client Report (PDF file) contains a summary of the work done for implementing the project.
+
+Strathclyde Project_Socrates (PowerBI file) includes all filters applied on the original given file Strathclyde Project (for creation of new columns with the game outcome (Win/Draw/Loss) at table All Fixtures, filter specific games, etc) and the R-scripts produced for the creation, training, prediction and update of the machine learning model. If someone wishes to run the scripts, he/she has to select the R-visual from the correspondent page (Page 2 for training and Page 3 for update and prediction).
+
+For any help needed, please contact me via email at soc_xro@yahoo.gr
+
+Socrates-Dimitrios Chronopoulos
+
+Computer Engineer and Informatics, MEng, MSc Data Analytics
